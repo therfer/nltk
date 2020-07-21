@@ -8,7 +8,7 @@
 
 """
 The Sonority Sequencing Principle (SSP) is a language agnostic algorithm proposed
-by Otto Jesperson in 1904. The sonorous quality of a phoneme is judged by the
+by Otto Jespersen in 1904. The sonorous quality of a phoneme is judged by the
 openness of the lips. Syllable breaks occur before troughs in sonority. For more
 on the SSP see Selkirk (1984).
 
